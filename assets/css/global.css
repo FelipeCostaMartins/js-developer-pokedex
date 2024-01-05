@@ -1,41 +1,46 @@
 /* POKEMON COLORS */
-.normal { background-color: #d0d392; }
-
-.grass { background-color: #1adcb3; }
-
-.fire { background-color: #ff5662; }
-
-.water { background-color: #7fafff; }
-
-.electric { background-color: #fbe464; }
-
-.ice { background-color: #7bfbff; }
-
-.ground { background-color: #ffd564; }
-
-.flying { background-color: #ac8dff; }
-
-.poison { background-color: #ca37ca; }
-
-.fighting { background-color: #ba443e; }
-
-.psychic { background-color: #db6085; }
-
-.dark { background-color: #725847; }
-
-.rock { background-color: #b8a137; }
-
-.bug { background-color: #c7d269; }
-
-.ghost { background-color: #9e74ec; }
-
-.steel { background-color: #a7a6ae; }
-
-.dragon { background-color: #6f38f6; }
-
-.fairy { background-color: #ffbdd3; }
+.normal { background-color: var(--normal-color); }
+.grass { background-color: var(--grass-color); }
+.fire { background-color: var(--fire-color); }
+.water { background-color: var(--water-color); }
+.electric { background-color: var(--electric-color); }
+.ice { background-color: var(--ice-color); }
+.ground { background-color: var(--ground-color); }
+.flying { background-color: var(--flying-color); }
+.poison { background-color: var(--poison-color); }
+.fighting { background-color: var(--fighting-color); }
+.psychic { background-color: var(--psychic-color); }
+.dark { background-color: var(--dark-color); }
+.rock { background-color: var(--rock-color); }
+.bug { background-color: var(--bug-color); }
+.ghost { background-color: var(--ghost-color); }
+.steel { background-color: var(--steel-color); }
+.dragon { background-color: var(--dragon-color); }
+.fairy { background-color: var(--fairy-color); }
 
 :root {
+
+    /* declarando palheta de cores */
+    --normal-color: #d0d392;
+    --grass-color: #1adcb3;
+    --fire-color: #ff5662;
+    --water-color: #7fafff;
+    --electric-color: #fbe464;
+    --ice-color: #7bfbff;
+    --ground-color: #ffd564;
+    --flying-color: #ac8dff;
+    --poison-color: #ca37ca;
+    --fighting-color: #ba443e;
+    --psychic-color: #db6085;
+    --dark-color: #725847;
+    --rock-color: #b8a137;
+    --bug-color: #c7d269;
+    --ghost-color: #9e74ec;
+    --steel-color: #a7a6ae;
+    --dragon-color: #6f38f6;
+    --fairy-color: #ffbdd3;
+
+    /* cores gerais da pagina */
     --body-bg: #e6e8ec;
     --body-color: #3d3d3d;
     --section-bg: #fff;
