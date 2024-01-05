@@ -2,7 +2,7 @@
 
 The objective of this project is to create a Pokedex using HTML, CSS, JAVASCRIPT and data from the PokeApi server.
 
-![Design Pokemon App](assets/img/pokedex-design)
+![Design Pokemon App](assets/img/pokedex-design.png)
 
 > Project for [DIO](https://web.dio.me/) Bootcamp " Frontend development with Angular "
 
@@ -21,5 +21,3 @@ The objective of this project is to create a Pokedex using HTML, CSS, JAVASCRIPT
 ⠀⠀⠀⠀⠀⠈⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣧⠀⠀⠀
 ⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
-
-IDEIAS?: MODO DARK/MODO LIGHT ---- FILTRO DE TIPO

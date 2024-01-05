@@ -1,19 +1,77 @@
+/* POKEMON COLORS */
+.normal { background-color: #d0d392; }
+
+.grass { background-color: #1adcb3; }
+
+.fire { background-color: #ff5662; }
+
+.water { background-color: #7fafff; }
+
+.electric { background-color: #fbe464; }
+
+.ice { background-color: #7bfbff; }
+
+.ground { background-color: #ffd564; }
+
+.flying { background-color: #ac8dff; }
+
+.poison { background-color: #ca37ca; }
+
+.fighting { background-color: #ba443e; }
+
+.psychic { background-color: #db6085; }
+
+.dark { background-color: #725847; }
+
+.rock { background-color: #b8a137; }
+
+.bug { background-color: #c7d269; }
+
+.ghost { background-color: #9e74ec; }
+
+.steel { background-color: #a7a6ae; }
+
+.dragon { background-color: #6f38f6; }
+
+.fairy { background-color: #ffbdd3; }
+
+:root {
+    --body-bg: #e6e8ec;
+    --body-color: #3d3d3d;
+    --section-bg: #fff;
+    --poke-name: #fff;
+    --poke-details: #fff;
+}
+
+.dark-mode:root {
+    --body-bg: #000000;
+    --body-color: #ffffff;
+    --section-bg: #212529;
+    --poke-name: #40454a;
+    --poke-details: #40454a;
+}
+
 * {
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
 }
 
 body {
-    background-color: #e6e8ec;
-     overflow-x: hidden; /*adicionado essa linha */
+    background-color: var(--body-bg);
+    overflow-x: hidden;
+    color: var(--body-color);
+    transition: background-color 0.5s ease; /* Adicionado a transição ao body */
 }
 
 .content {
     width: 100%;
     height: 100%;
     padding: 1rem;
-    background-color: #fff;
+    background-color: var(--section-bg);
+    transition: background-color 0.5s ease; /* Adicionado a transição à .content */
 }
+
+
 
 @media screen and (min-width: 992px) {
     .content {
