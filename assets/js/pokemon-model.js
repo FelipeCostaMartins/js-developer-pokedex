@@ -5,17 +5,17 @@ class Pokemon {
     type;
     types = [];
     photo;
-     baseExp; //adicionado
-    height; //adicionado
-    weight; //adicionado
-    abilities = []; //adicionado
-    moves = []; //adicionado
-    stats = []; //adicionado
-    description; //adicionado
-    generation; //adicionado
-    eggGroups = []; //adicionado
-    evolutionChain; //adicionado
-    evolutions = []; //adicionado
-    evolutionsSprites = []; //adicionado
-    liked; //adicionado
+     baseExp; //add
+    height; //add
+    weight; //add
+    abilities = []; //add
+    moves = []; //add
+    stats = []; //add
+    description; //add
+    generation; //add
+    eggGroups = []; //add
+    evolutionChain; //add
+    evolutions = []; //add
+    evolutionsSprites = []; //add
+    liked; //add
 }
