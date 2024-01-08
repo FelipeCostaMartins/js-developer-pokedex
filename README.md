@@ -4,7 +4,7 @@ The objective of this project is to create a Pokedex using HTML, CSS, JAVASCRIPT
 
 ![Design Pokemon App](assets/img/pokedex-design.png)
 
-[Click here to view the web page via github pages] (https://felipecostamartins.github.io/js-developer-pokedex/)
+[Click here to view the web page via github pages](https://felipecostamartins.github.io/js-developer-pokedex/)
 
 > Project for [DIO](https://web.dio.me/) Bootcamp " Frontend development with Angular "
 
@@ -23,4 +23,4 @@ The objective of this project is to create a Pokedex using HTML, CSS, JAVASCRIPT
 ⠀⠀⠀⠀⠀⠈⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣧⠀⠀⠀
 ⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
-[project base] (https://axlbr.github.io/js-developer-pokedex/)
+[project based](https://axlbr.github.io/js-developer-pokedex/)
